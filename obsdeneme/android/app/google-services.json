@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "105774787109",
+    "project_id": "ogrenci-e7362",
+    "storage_bucket": "ogrenci-e7362.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105774787109:android:85eaf80ad0d875e8faedcc",
+        "android_client_info": {
+          "package_name": "com.example.obs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105774787109-eh42d6b5anbmpsrrn4pq205b1kg2s0mg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPg_tu7_3LguCrNyunHdDdHZKke46eSqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105774787109-eh42d6b5anbmpsrrn4pq205b1kg2s0mg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "105774787109-7g9l7h46es5cf4ac7eia3ar0c17t5uvv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.obs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
